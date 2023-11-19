@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    color: #FFF176;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+body{
+    background-image: url('../src/assets/imgs/ceu-planetas.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
