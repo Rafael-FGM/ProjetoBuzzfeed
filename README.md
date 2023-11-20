@@ -1,4 +1,4 @@
-# Universo Deslumbrante: Quanto Você Sabe sobre o Cosmos?
+# Universo Deslumbrante: Quanto você sabe sobre o Cosmos?
 ## Bem-vindo ao Universo Deslumbrante, um quiz interativo que vai testar seus conhecimentos sobre o vasto cosmos! Prepare-se para uma jornada intergaláctica, explorando desde estrelas distantes até os fenômenos cósmicos mais intrigantes.
 
 Como Jogar:
